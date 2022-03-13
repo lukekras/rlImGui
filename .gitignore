@@ -365,3 +365,9 @@ MigrationBackup/
 /examples/simple.vcxproj.filters
 /premake5.exe
 /rlImGui.sln
+
+# CLion IDE
+.idea
+
+# CMake
+cmake-*
